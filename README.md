@@ -7,10 +7,10 @@
 
 
 ---
-📁 Inventory Management System
-├── 🎮 Main.java (Controller)
-├── 📦 Product.java (Model)
-└── 🛠️ InventoryManager.java (Service)
+ ##  📁 Inventory Management System
+         ├── 🎮 Main.java (Controller)
+         ├── 📦 Product.java (Model)
+         └── 🛠️ InventoryManager.java (Service)
 
 ## Main Menu Options
 1. 📋 Display All Products
