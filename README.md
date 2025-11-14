@@ -1,6 +1,6 @@
-Here's a comprehensive `README.md` file for your Inventory Management System:
 
-```markdown
+
+
 # Inventory Management System
 
 A complete Java-based Inventory Management System that allows users to efficiently manage products through a console-based menu interface.
