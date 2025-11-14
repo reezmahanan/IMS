@@ -175,4 +175,3 @@ If you have any questions or need help with setup, please open an issue on GitHu
 ---
 
 **⭐ Don't forget to star this repository if you find it helpful!**
-```
